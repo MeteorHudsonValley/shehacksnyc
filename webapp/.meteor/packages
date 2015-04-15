@@ -7,3 +7,5 @@
 meteor-platform
 accounts-ui
 accounts-password
+sanjo:jasmine
+velocity:html-reporter
